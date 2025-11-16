@@ -45,5 +45,10 @@ namespace loginform
             FORGETPASS f2 = new FORGETPASS();
             f2.Show();
         }
+
+        private void label1_Click_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }
